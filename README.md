@@ -1,2 +1,2 @@
 # landing-page
-landing page project on odin project. wish me luck!
+Landing page project on odin project. Wish me luck!
