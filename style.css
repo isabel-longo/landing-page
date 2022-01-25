@@ -94,3 +94,48 @@ button{
     font-weight: bold;
     border-radius: 8px;
 }
+
+.second-part{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 120px;
+}
+
+.second-text{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bolder;
+    margin: 50px;
+}
+
+.boxes{
+    display: flex;
+    flex-direction: row;
+    gap: 55px;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 160px;
+    text-align: center;
+    gap: 8px;
+}
+
+.box{
+    width: 160px;
+    height: 160px;
+    border: 4px;
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 16px;
+}
+
+.text-box{
+    color: #6e6f72;
+    
+}
