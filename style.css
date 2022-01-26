@@ -137,7 +137,7 @@ button{
 }
 
 .text-box{
-    color: #6e6f72;
+    color: #1F2937;
     
 }
 
@@ -199,4 +199,15 @@ p{
     border-width: 3px;
     border-style: solid;
     height: 42px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #1F2937;
+    color: #E5E7EB;
 }
